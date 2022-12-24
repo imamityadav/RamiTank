@@ -29,7 +29,7 @@
 							<li class="nav-item"><a href="./" class="nav-link">About</a></li>
 							<li class="nav-item"><a href="./" class="nav-link">Services</a></li>
 							<li class="nav-item"><a href="./blog" class="nav-link">Blog</a></li>
-							<li class="nav-item"><a href="./" class="nav-link">Contact</a></li>
+							<li class="nav-item"><a href="./" class="nav-link">Contact us</a></li>
 						</ul>
 					</div>
 
