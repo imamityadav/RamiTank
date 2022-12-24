@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name= "viewport" content="width=device-width, user-scalable=no" />
+    <link rel= "manifest" href= "pwa/manifest.json" />
+  <style>
+    body {
+      font-family: roboto;
+    }
+    #middle {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      }
+  </style>
+    </head>
+<body>
+  <div id="middle">
+    <h1>Hello PWA</h1>
+  </div>
+</body>
+<script>
+  
+  // navigator.serviceWorker.getRegistrations()
+  // .then(registrations => {
+  //   registrations.forEach(registration => {
+  //     registration.unregister()
+  //   }) 
+  // })
+
+  // if (!navigator.serviceWorker.controller) {
+  //     navigator.serviceWorker.register("pwa/sw.js").then(function(reg) {
+  //         console.log("Service worker has been registered for scope: " + reg.scope);
+  //     });
+  // }
+ </script>
+
+
+
+
+<script>
+  window.navigator.cookieEnabled && "serviceWorker" in navigator && window.addEventListener("load", (function() {
+
+      navigator.serviceWorker.register("pwa/sw.js").then((function(registration) {
+        if (console.log("ServiceWorker registration successful with scope: ", registration.scope), registration.active) {
+          const serviceWorker = registration.active,
+            prefetchChunksData = {
+              prefetchUrls: window.prefetch_asset_urls || [],
+              type: "PREFETCH_ASSETS"
+            };
+          try {
+            serviceWorker.postMessage(JSON.stringify(prefetchChunksData)), console.log("ServiceWorker is active and sending message : ", registration.scope)
+          } catch (err) {
+            console.log("Service Worker Error: " + err.toString())
+          }
+        }
+      })).catch((function(err) {
+        window.reportToSentry(err), console.error("ServiceWorker registration failed: ", err)
+      })), navigator.serviceWorker.ready.then((function(swRegistration) {
+        return window.heartBeatPushFailed = !0, swRegistration.sync && swRegistration.sync.register("heart-beat-for-push").then((function() {
+          window.heartBeatPushFailed = !1, console.log("Sync registration successfull for web push Heart beat")
+        }), (function(err) {
+          console.log("Sync registration failed for web push Heart beat: " + err)
+        }))
+      })).catch((function(err) {
+        console.log("Sync registration failed for web push Heart beat: " + err)
+      }))
+
+  })) 
+  </script>
+
+
+
+
+
+
+</html>

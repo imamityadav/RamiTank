@@ -1,0 +1,17 @@
+{
+  "name": "RamiTank Technology",
+  "short_name": "RamiTank",
+  "theme_color": "#000000",
+  "background_color": "#051789",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "https://ramitank.tech/",
+  "description": "RamiTank Official Website",
+  "orientation": "any",
+  "icons": [
+      {
+          "src": "https://christine.website/static/img/avatar.png",
+          "sizes": "1024x1024"
+      }
+  ]
+}
