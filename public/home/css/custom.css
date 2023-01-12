@@ -1,0 +1,11 @@
+/* custom css here */
+@font-face {
+  font-family: "raidercrusader";
+  src: url("../fonts/custom/raidercrusader.ttf");
+}
+
+.black-logo, .white-logo {
+  font-family: raidercrusader;
+  font-size: 3.5rem;
+  position: absolute;
+}

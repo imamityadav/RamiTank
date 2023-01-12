@@ -5,7 +5,7 @@
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	
+
 	<!-- All CSS Link -->
 	<link rel="stylesheet" href="public/home/css/bootstrap.min.css">
 	<link rel="stylesheet" href="public/home/css/animate.min.css">
@@ -20,11 +20,12 @@
 	<link rel="stylesheet" href="public/home/css/responsive.css">
 	<link rel="stylesheet" href="public/home/css/dark-color/dark-style.css">
 	<title>RamiTank - IT Startup & Digital Business Services HTML Template</title>
+	<link rel="stylesheet" href="public/home/css/custom.css?v={{time()}}">
 	<link rel="icon" type="image/png" href="public/home/img/favicon.png">
 </head>
 
 <body>
-	
+
 	<!-- Start Preloader Area -->
 	<div class="preloader">
 		<div class="spinner"></div>
@@ -46,7 +47,7 @@
 			<span class="slider round"></span>
 		</label>
 	</div>
-	
+
 	<!-- All JS Link -->
 	<script src="public/home/js/jquery.min.js"></script>
 	<script src="public/home/js/bootstrap.bundle.min.js"></script>

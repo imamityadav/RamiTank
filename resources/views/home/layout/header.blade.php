@@ -20,8 +20,12 @@
 		<div class="startp-nav">
 			<div class="container">
 				<nav class="navbar navbar-expand-md navbar-light">
-					<a class="navbar-brand black-logo" href="index.html"><img src="public/home/img/logo.png" alt="logo"></a>
-					<a class="navbar-brand white-logo" href="index.html"><img src="public/home/img/white-logo.png" alt="logo"></a>
+					<a class="navbar-brand black-logo " href="./">
+						RamiTank
+					</a>
+					<a class="navbar-brand white-logo" href="./">
+						RamiTank
+					</a>
 
 					<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 						<ul class="navbar-nav nav ml-auto">
@@ -39,7 +43,7 @@
 						<a href="login.html" class="btn btn-primary">Login</a>
 					</div> -->
 				</nav>
-			</div> 
+			</div>
 		</div>
 
 		<div class="others-option-for-responsive">
@@ -51,7 +55,7 @@
 						<div class="circle circle-three"></div>
 					</div>
 				</div>
-				
+
 				<!-- <div class="container">
 					<div class="option-inner">
 						<div class="others-option">
