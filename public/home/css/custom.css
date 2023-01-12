@@ -1,0 +1,5 @@
+/* custom css */
+@font-face {
+  font-family: 'raidercrusader'; /* this value can be anything you wish - it gets used in the class definition below */
+  src: url('../fonts/custom/raidercrusader.ttf'); /* add the file path to your font here */
+}

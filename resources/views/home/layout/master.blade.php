@@ -17,8 +17,9 @@
 	<link rel="stylesheet" href="public/home/css/odometer.min.css">
 	<link rel="stylesheet" href="public/home/css/slick.min.css">
 	<link rel="stylesheet" href="public/home/css/style.css">
+	<link rel="stylesheet" href="public/home/css/style.css">
 	<link rel="stylesheet" href="public/home/css/responsive.css">
-	<link rel="stylesheet" href="public/home/css/dark-color/dark-style.css">
+	<link rel="stylesheet" href="public/home/css/custom.css?v={{time()}}">
 	<title>RamiTank - IT Startup & Digital Business Services HTML Template</title>
 	<link rel="icon" type="image/png" href="public/home/img/favicon.png">
 </head>
