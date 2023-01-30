@@ -62,7 +62,7 @@
 							<i data-feather="server"></i>
 						</div>
 						<h3>Zero Configuration</h3>
-						<p>Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna.</p>
+						<p>Allowing software to automatically configure everything in the backend. You Just Click and Use the application.</p>
 					</div>
 				</div>
 
@@ -72,7 +72,7 @@
 							<i data-feather="code"></i>
 						</div>
 						<h3>Code Security</h3>
-						<p>Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna.</p>
+						<p>We Protect and Encrypted your Data from common vulnerabilities such as SQL injection, Cross-site scripting (XSS) attacks.</p>
 					</div>
 				</div>
 
@@ -82,7 +82,7 @@
 							<i data-feather="users"></i>
 						</div>
 						<h3>Team Management</h3>
-						<p>Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna.</p>
+						<p>We organized, leading, and coordinating the work of a team of web developers to achieve project goals and deadlines.</p>
 					</div>
 				</div>
 
@@ -92,7 +92,7 @@
 							<i data-feather="git-branch"></i>
 						</div>
 						<h3>Access Controlled</h3>
-						<p>Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna.</p>
+						<p>We use Role-Based Access Control (RBAC), Attribute-Based Access Control (ABAC) and Multi-Factor Authentication (MFA) etc.</p>
 					</div>
 				</div>
 			</div>
@@ -108,7 +108,7 @@
 					<div class="section-title">
 						<h2>Cloud Hosting Services</h2>
 						<div class="bar"></div>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>Cloud hosting services provide remote, scalable and cost-effective hosting solutions via the internet.</p>
 					</div>
 
 					<div class="row">
@@ -207,7 +207,7 @@
 					<div class="section-title">
 						<h2>Design & Development</h2>
 						<div class="bar"></div>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>Design & Development process transforms ideas into visually appealing and functional websites or applications.</p>
 					</div>
 
 					<div class="row">
@@ -271,7 +271,7 @@
 			<div class="section-title">
 				<h2>Our Features</h2>
 				<div class="bar"></div>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+				<p>We gives you high and useful features at no extra cost. </p>
 			</div>
 
 			<div class="row">
@@ -282,7 +282,7 @@
 						</div>
 
 						<h3>Incredible Infrastructure</h3>
-						<p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+						<p> We refers to robust, reliable and scalable technology foundation for smooth operations..</p>
 					</div>
 				</div>
 
@@ -293,7 +293,7 @@
 						</div>
 
 						<h3>Email Notifications</h3>
-						<p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+						<p>We notifiy inform users about important updates, events, and actions via email messages.</p>
 					</div>
 				</div>
 
@@ -304,7 +304,7 @@
 						</div>
 
 						<h3>Simple Dashboard</h3>
-						<p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+						<p>Provide a neet,clean and easy to use dashboards.</p>
 					</div>
 				</div>
 
@@ -315,7 +315,7 @@
 						</div>
 
 						<h3>Information Retrieval</h3>
-						<p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+						<p>Information Retrieval refers to the process of searching, extracting, and organizing information from various sources..</p>
 					</div>
 				</div>
 
@@ -326,7 +326,7 @@
 						</div>
 
 						<h3>Drag and Drop Functionality</h3>
-						<p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+						<p>No manual clicks, just  Drag and Drop to use various tasks .</p>
 					</div>
 				</div>
 
@@ -337,7 +337,7 @@
 						</div>
 
 						<h3>Deadline Reminders</h3>
-						<p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+						<p>We will notify you 7 days before your service expires. .</p>
 					</div>
 				</div>
 			</div>

@@ -4,11 +4,11 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-6">
 					<div class="single-footer-widget">
-						<div class="logo black-logo">
-							<a href="index.html"><img src="public/home/img/logo.png" alt="logo"></a>
+						<div class="logo black-logo-footer brand-logo mt-4">
+							RamiTank 
 						</div>
-						<div class="logo white-logo">
-							<a href="index.html"><img src="public/home/img/white-logo.png" alt="logo"></a>
+						<div class="logo white-logo-footer brand-logo mt-4">
+						RamiTank 
 						</div>
 						<p>Give top class Solutions throught Website and Software.</p>
 					</div>

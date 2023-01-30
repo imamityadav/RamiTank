@@ -3,15 +3,11 @@
 		<div class="startp-responsive-nav">
 			<div class="container">
 				<div class="startp-responsive-menu">
-					<div class="logo black-logo">
-						<a href="index.html">
-							<img src="public/home/img/logo.png" alt="logo">
-						</a>
+					<div class="logo black-logo" style="font-size: 1.5rem;">
+						<a href="../">RamiTank </a>
 					</div>
-					<div class="logo white-logo">
-						<a href="index.html">
-							<img src="public/home/img/white-logo.png" alt="logo">
-						</a>
+					<div class="logo white-logo" style="font-size: 1.5rem;">
+						<a href="../">RamiTank</a>
 					</div>
 				</div>
 			</div>
@@ -46,7 +42,7 @@
 			</div>
 		</div>
 
-		<div class="others-option-for-responsive">
+		<!-- <div class="others-option-for-responsive">
 			<div class="container">
 				<div class="dot-menu">
 					<div class="inner">
@@ -56,7 +52,7 @@
 					</div>
 				</div>
 
-				<!-- <div class="container">
+				<div class="container">
 					<div class="option-inner">
 						<div class="others-option">
 							<a href="cart.html" class="cart-wrapper-btn"><i data-feather="shopping-cart"></i><span>0</span></a>
@@ -64,8 +60,8 @@
 							<a href="login.html" class="btn btn-primary">Login</a>
 						</div>
 					</div>
-				</div> -->
+				</div>
 			</div>
-		</div>
+		</div> -->
 	</header>
 	<!-- End Navbar Area -->

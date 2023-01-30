@@ -9,3 +9,16 @@
   font-size: 3.5rem;
   position: absolute;
 }
+
+.black-logo-footer, .white-logo-footer {
+  font-family: raidercrusader;
+  font-size: 3.5rem;
+}
+
+.theme-light .white-logo-footer {
+  display: none;
+}
+
+.theme-dark .black-logo-footer {
+  display: none;
+}

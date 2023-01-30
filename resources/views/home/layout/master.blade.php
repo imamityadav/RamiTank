@@ -21,7 +21,7 @@
 	<link rel="stylesheet" href="public/home/css/dark-color/dark-style.css">
 	<title>RamiTank - IT Startup & Digital Business Services HTML Template</title>
 	<link rel="stylesheet" href="public/home/css/custom.css?v={{time()}}">
-	<link rel="icon" type="image/png" href="public/home/img/favicon.png">
+	<link rel="icon" type="image/png" href="public/home/img/favicon.png?v={{time()}}">
 </head>
 
 <body>
