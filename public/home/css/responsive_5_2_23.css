@@ -29,12 +29,9 @@
   }
   .main-banner {
     height: 100%;
-    /* padding-top: 150px; */
+    padding-top: 150px;
     padding-bottom: 80px;
     background-position: center;
-  }
-  .main-banner .container {
-    margin-top: 5rem;
   }
   .main-banner .hero-content {
     margin-bottom: 45px;
@@ -47,7 +44,6 @@
   }
   .main-banner .banner-image {
     text-align: center;
-    margin-top: 0;
   }
   .main-banner .banner-image img {
     display: none;
@@ -1647,9 +1643,6 @@
   .container {
     max-width: 540px;
   }
-  .main-banner .container {
-    margin-top: 5rem;
-  }
   .repair-about-content ul li {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 50%;
@@ -1731,15 +1724,12 @@
   }
   .main-banner {
     height: 100%;
-    /* padding-top: 185px; */
+    padding-top: 185px;
     padding-bottom: 165px;
-  }
-  .main-banner .container {
-    margin-top: 5rem;
   }
   .main-banner .banner-image {
     text-align: center;
-    margin-top: 0;
+    margin-top: 45px;
   }
   .main-banner .banner-image img {
     position: relative;
@@ -2312,9 +2302,6 @@
   }
   .main-banner .hero-content h1 {
     font-size: 35px;
-  }
-  .main-banner .container {
-    margin-top: 5rem;
   }
   .main-banner .banner-image img:nth-child(1) {
     top: -140px;

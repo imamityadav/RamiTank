@@ -1,0 +1,43 @@
+{
+  "background_color": "#ffffff",
+  "description": "Here is a small test of pwa from ramitank",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "RamiTank Technologies",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "RamiTank",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "productivity"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "public/home/img/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "RamiTank",
+      "url": "https://ramitank.tech/public/home/img/logo_full.png",
+      "icons": [
+        {
+          "src": "https://ramitank.tech/public/home/img/logo_full.png"
+        }
+      ],
+      "description": "ramitank logo"
+    }
+  ],
+  "lang": "en",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "window-controls-overlay"
+  ]
+}

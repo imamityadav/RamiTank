@@ -5,7 +5,7 @@
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+	<link rel="manifest" href="manifest.json" />
 	<!-- All CSS Link -->
 	<link rel="stylesheet" href="public/home/css/bootstrap.min.css">
 	<link rel="stylesheet" href="public/home/css/animate.min.css">
@@ -64,6 +64,13 @@
 	<script src="public/home/js/form-validator.min.js"></script>
 	<script src="public/home/js/contact-form-script.js"></script>
 	<script src="public/home/js/main.js"></script>
+	<script>
+		if (typeof navigator.serviceWorker !== 'undefined') {
+			navigator.serviceWorker.register('sw.js')
+		}
+	</script>
+<script src="public/home/js/pwa.js"></script>
+
 </body>
 
 </html>

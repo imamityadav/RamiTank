@@ -21,7 +21,7 @@
 
 	// Header Sticky
 	$(window).on('scroll',function() {
-		if ($(this).scrollTop() > 30){  
+		if ($(this).scrollTop() > 120){  
 			$('#header').addClass("is-sticky");
 		}
 		else{
